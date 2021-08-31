@@ -237,7 +237,7 @@ article #sectionWrapper .card#inCenter {
     width: 100%;
   }
   #sectionWrapper section {
-    width: 250px;
+    width: 330px;
   }
   article #sectionWrapper .card {
     width: 100%;
@@ -261,9 +261,6 @@ article #sectionWrapper .card#inCenter {
   }
   article section {
     margin-bottom: 2em;
-  }
-  #sectionWrapper section {
-    width: 330px;
   }
 
   article #sectionWrapper .card {
