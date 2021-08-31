@@ -262,6 +262,9 @@ article #sectionWrapper .card#inCenter {
   article section {
     margin-bottom: 2em;
   }
+  #sectionWrapper section {
+    width: 330px;
+  }
 
   article #sectionWrapper .card {
     width: 330px;
